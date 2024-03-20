@@ -6,6 +6,8 @@ This project retrieves a full chat history (messages and uploaded files) and ren
 
 The maintainer does no longer have the need for this tool, nor can't find the time to keep it alive. Therefore this repository is set to read-only. If anyone is willing to maintain this utility, feel free to fork this repository.
 
+Update 2024-03-20: Tool is still working! Thx!
+
 ## Requirements
 
 Node.js 10 (or higher). Tested on macOS and Windows, but will most likely run on Linux too.
